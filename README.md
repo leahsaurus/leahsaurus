@@ -2,7 +2,7 @@
 # Welcome to my humble Abode 
 
 <!--
-**leahsaurus/leahsaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leahsaurus/leahsaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Projects related to combining ML & the 'www'
 - 🌱 I’m currently learning ML model techniques and Web Development
